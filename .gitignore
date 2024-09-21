@@ -1,0 +1,26 @@
+# Default ignored files
+/shelf/
+.idea/workspace.xml
+
+# Build files
+/build/
+.out/
+
+# IDE files
+/.idea/
+*.iml
+
+# Gradle files
+/.gradle/
+/gradle-wrapper.jar
+/gradle-wrapper.properties
+
+# Compiled files
+*.class
+*.jar
+*.war
+*.log
+
+# OS specific files
+Thumbs.db
+Desktop.ini
